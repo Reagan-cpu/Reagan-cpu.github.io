@@ -2,10 +2,7 @@
 <html>
 <body>
 </video>
-    <video width="320" height="240" controls>
-      <source src=”wario1” type=video/mp4>
-      <source src="\Documents\web\Reagan-cpu.github.io\vidz\wario1.mp4" type=video/mp4>
-    </video>
-    <p>weed!</p>
+	
+	 <img src="https://mario.wiki.gallery/images/thumb/2/29/SMPWario.png/1200px-SMPWario.png" alt="me"> 
 </body>
 </html> 
